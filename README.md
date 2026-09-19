@@ -37,9 +37,3 @@ El projecte consta de dues fases de desenvolupament pràctic:
 
 ---
 
-## 🚀 Instal·lació i configuració
-
-1. **Clonar el repositori:**
-   ```bash
-   git clone [https://github.com/EL_TEU_USUARI/ia-robots-assistencials.git](https://github.com/EL_TEU_USUARI/ia-robots-assistencials.git)
-   cd ia-robots-assistencials
